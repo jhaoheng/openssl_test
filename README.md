@@ -1,6 +1,6 @@
 # openssl 安裝與使用
 
-下載 github 上的 openssl-for-iphone  
+下載 github 上的 [openssl-for-iphone](https://github.com/x2on/OpenSSL-for-iPhone)  
 或者  
 直接開啟該檔案
 此 openssl 的版本為 1.0.2e
